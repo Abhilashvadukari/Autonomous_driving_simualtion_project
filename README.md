@@ -2,7 +2,8 @@
 # Autonomous Driving Simulation
 
 ## Description
-This project simulates autonomous driving using reinforcement learning environments from OpenAI Gym.
+Autonomous Driving Simulation is an Artificial Intelligence project that simulates self-driving car behavior in a virtual environment using reinforcement learning concepts. The system interacts with the environment, makes driving decisions, and learns navigation techniques through AI-based actions. This project helps in understanding reinforcement learning, simulation environments, autonomous systems, and AI-driven decision-making.
+
 
 ## Features
 - Car driving simulation
